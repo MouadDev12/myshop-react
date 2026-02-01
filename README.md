@@ -2,7 +2,7 @@
 
 A professional, responsive, and feature-rich e-commerce web application built with **React**, **Tailwind CSS**, and modern web technologies.
 
-![Project Preview](https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?q=80&w=1200&auto=format&fit=crop)
+
 
 ## 🚀 Overview
 
@@ -90,6 +90,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-*Built with ❤️ by MouadDev12*
-# myshop
-# myshop-react
+
